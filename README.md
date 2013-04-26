@@ -14,7 +14,7 @@ You just need to put netbeans.app, next to `netbeans` script under `bin` directo
 Just git clone/export this project into a bin directory. For example,
 ```bash
 cd $NETBEANS_HOME/bin
-git clone git@github.com/yogendra/netbeans-osx-launcher.git netbeans.app
+git clone git@github.com:yogendra/netbeans-osx-launcher.git netbeans.app
 ```
 *NOTE:* `.app` extension is important as Mac OS X uses this to identify launchable application.
 
