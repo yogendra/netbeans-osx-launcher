@@ -1,6 +1,8 @@
 Netbeans OS X Launcher
 ======================
 
+[![Join the chat at https://gitter.im/yogendra/netbeans-osx-launcher](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yogendra/netbeans-osx-launcher?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Introduction
 ------------
 I use zip packages from [Netbeans](http://www.netbeans.org) for all practical purposes. This gives me freedom to put netbeans anywhere. Also, I don't need admin rights.
